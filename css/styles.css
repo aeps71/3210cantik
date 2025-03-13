@@ -251,7 +251,7 @@ body {
 footer {
   background-color: var(--primary-color);
   color: var(--white);
-  padding: 0.5rem 0;
+  padding: 1.0rem 0;
   text-align: center;
 }
 
