@@ -251,7 +251,7 @@ body {
 footer {
   background-color: var(--primary-color);
   color: var(--white);
-  padding: 1.5rem 0;
+  padding: 1.0rem 0;
   text-align: center;
 }
 
@@ -259,7 +259,7 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 1.0rem;
+  gap: 0.5rem;
 }
 
 /* Social Media Icons */
