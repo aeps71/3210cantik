@@ -188,7 +188,7 @@ body {
 
 /* Parallax Hero Section */
 .hero {
-  height: 75vh;
+  height: 79vh;
   background-image: linear-gradient(rgba(0,0,0,0.0), rgba(0,0,0,0.0)), 
                     url('../gambar/cantik3210040.png');
   background-attachment: fixed;
